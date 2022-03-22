@@ -6,6 +6,6 @@
 <h2> Les documents </h2>
 <br>
 <ul>
-  <li>Dossier Professionnel : en cours de rédaction</li>
-  <li>Rapport de stage : en cours de rédaction</li>
+  <li>Dossier Professionnel : <a href="/DP_Valentin_Gratz.pdf">le lire</a></li>
+  <li>Rapport de stage : <a href="/Rapport_de_stage_Valentin_Gratz.pdf">le lire</a></li>
 </ul>
